@@ -1,0 +1,1467 @@
+@media only screen and (max-width: 1600px) {
+
+	.scene-1 .logo__area {
+		width: 36vw;
+	}
+
+	.scene-2 .media {
+		width: 58vw;
+	}
+
+	.progress__bar_item {
+		font-size: 1.1rem;
+	}
+
+
+	/* ---------- new changes ---------- */
+
+	.scene-1 .scene__content_inner {
+		max-width: 59vw;
+	}
+
+}
+
+
+
+@media only screen and (max-width: 1499px) {
+
+}
+
+
+
+@media only screen and (max-width: 1399px) {
+
+	.scene-1 .text__area .title {
+		font-size: 1.8vw;
+	}
+
+}
+
+
+
+@media only screen and (max-width: 1299px) {
+
+}
+
+
+
+
+@media only screen and (max-width: 1199px) {
+
+	.main__menu {
+		font-size: 2vw;
+	}
+
+
+	.scene-1 .logo__area {
+		width: 50vw;
+	}
+
+	.scene-1 .scene__content_inner {
+		max-width: 61vw;
+	}
+
+	.scene-1 .text__area .title {
+		font-size: 2vw;
+	}
+
+	.scene-1 .text__area .subtitle {
+		font-size: 1.6vw;
+	}
+
+	.parallax__bg.bg-3 .sh-1 {
+		top: 70vw;
+	}
+
+	.parallax__bg.bg-3 .sh-2 {
+		top: 80vw;
+	}
+
+	.scene-2 .media {
+		width: 68vw;
+		top: 10rem;
+	}
+
+	.scene-3 .scene__content_inner {
+		width: 78vw;
+	}
+
+	.scene-3 .dog {
+		width: 18%;
+		left: 54.8%;
+		bottom: 32%;
+	}
+
+	.scene-3 .bird {
+		width: 14%;
+		right: 10%;
+		top: -24%;
+	}
+
+	.scene-3 .bee.b-1 {
+		width: 12%;
+	}
+
+	.scene-3 .bee.b-2 {
+		width: 8%;
+		left: 17%;
+		top: -21%;
+	}
+
+	.scene-3 .bee.b-3 {
+		width: 5.5%;
+	}
+
+	.scene-4 .scene__content .fish.f-1 {
+		width: 16%;
+		top: 30%;
+		left: 0.5%;
+	}
+
+	.scene-4 .scene__content .bubble.b-1 {
+		left: 32%;
+		top: 5%;
+	}
+
+	.scene-4 .scene__content .dog {
+		top: 13%;
+	}
+
+	.scene-4 .scene__content .fish.f-2 {
+		top: 13%;
+	}
+
+	.scene-4 .scene__content .fish.f-3 {
+		top: 40%;
+	}
+
+	.scene-4 .scene__content .bubbles {
+		bottom: 13vw;
+		left: 33%;
+		height: 110%;
+		width: 35%;
+	}
+
+	@keyframes up {
+		0% {
+			opacity: 0;
+		}
+		10%, 90% {
+			opacity: 1;
+		}
+		100% {
+			opacity: 0;
+			transform: translateY(-100vh);
+		}
+	}
+
+	.progress__bar_item {
+		font-size: 1rem;
+	}
+
+	.scene-5 .scene__content .coin.contact {
+		width: 16%;
+		left: 0%;
+		top: 44%;
+	}
+
+	.scene-5 .scene__content .coin.buy {
+		width: 20%;
+		left: -8%;
+		top: 60%;
+	}
+
+	.scene-5 .scene__content .coin.chart {
+		width: 16%;
+		left: 75%;
+		top: 47%;
+	}
+
+	.scene-5 .scene__content .dog {
+		width: 16%;
+		left: 90%;
+		top: 77%;
+	}
+
+	.scene-5 .star.left-top {
+		top: -4%;
+		left: 5%;
+	}
+
+	.scene-5 .star.center-top {
+		top: 0%;
+		left: 57.5%;
+	}
+
+	.scene-5 .star.right-top {
+		right: -5%;
+	}
+
+	.scene-5 .plant {
+		left: 88%;
+		top: 61%;
+	}
+
+	.scene-5 .oyster {
+		left: -2%;
+	}
+
+	.scene-5 .star.left-bottom {
+		top: 92%;
+		left: 3%;
+	}
+
+	.scene-5 .star.right-bottom {
+		top: 94%;
+		right: 2%;
+	}
+
+	.scene-5 .corals {
+		top: 48%;
+		left: 0%;
+	}
+
+	.main__footer_content {
+		width: 100vw;
+	}
+
+	.main__footer .socials li {
+		margin: 0 1rem;
+	}
+
+	.main__footer form input, 
+	.main__footer form textarea {
+		font-size: 1.4vw;
+		height: 4.3vw;
+		padding: 0 1.2vw;
+	}
+
+	.main__footer form textarea {
+		height: 16rem;
+		padding: 1.2vw 1.2vw;
+	}
+
+	.main__footer form [type="submit"] {
+		font-size: 1.4vw;
+		height: 4.3vw;
+		line-height: 4.4vw;
+		min-width: 11vw;
+		padding: 0 1.2vw;
+	}
+
+	.main__footer .copy {
+		width: 100vw;
+		font-size: 1.6vw;
+	}
+
+	.main__footer .copy span:nth-child(2) {
+		font-size: 1.4vw;
+	}
+
+	.parallax__bg.bg-1 .clouds {
+		top: 124vh;
+	}
+
+	.parallax__bg.bg-3 .cl-3 {
+		left: -15vw;
+	}
+
+	.scene.info .description__item {
+		font-size: 1.6vw;
+	}
+
+	.scene.info .description__item_text p {
+		max-width: 50vw;
+	}
+
+	.scene.info .scene__content {
+		max-width: 58vw;
+	}
+
+	.scene.info .description__item:nth-of-type(3) .description__item_text p {
+		max-width: 44vw;
+	}
+
+	.scene-4 .scene__content .dog {
+		top: 7%;
+	}
+
+	.main__footer_top {
+		width: 100vw;
+		max-width: 100%;
+	}
+
+	.partners__list {
+		justify-content: space-around;
+	}
+
+	.scene-4 .scene__content .bubble.b-4 {
+		left: 52%;
+		top: 36%;
+	}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 992px) {
+
+	.main__menu {
+		font-size: 2.3vw;
+	}
+
+
+	.scene-1 .scene__content_inner {
+		max-width: 72vw;
+	}
+
+	.scene-1 .logo__area {
+		width: 64vw;
+	}
+
+	.scene-1 .socials {
+		width: 30.5vw;
+	}
+
+	.scene-1 .socials__wrapper {
+		margin-bottom: 12vw;
+	}
+
+	.scene-1 .text__area .title {
+		font-size: 3vw;
+	}
+
+	.scene-1 .text__area .subtitle {
+		font-size: 2.4vw;
+	}
+
+	.parallax__bg.bg-3 .cl-1 {
+		width: 50vw;
+		top: 7vh;
+		left: -17vw;
+	}
+
+	.parallax__bg.bg-3 .cl-2 {
+		width: 50vw;
+		top: 62vh;
+		right: -10vw;
+	}
+
+	.parallax__bg.bg-3 .cl-7 {
+		width: 40vw;
+		top: 150vh;
+		right: -10vw;
+	}
+
+	.parallax__bg.bg-3 .cl-10 {
+		width: 30vw;
+		top: 180vh;
+		left: 30vw;
+	}
+
+	.parallax__bg.bg-1 .cl-1 {
+		width: 60vw;
+		top: 5vh;
+		left: -8vw;
+	}
+
+	.parallax__bg.bg-1 .cl-2 {
+		width: 70vw;
+		top: 5vh;
+		right: -10vw;
+	}
+
+	.scene {
+		height: auto;
+	}
+
+	.scene-1 .scene__content {
+		height: auto;
+		padding: 10rem 0;
+	}
+
+	.scene-2 .media {
+		width: 80vw;
+		top: 0;
+	}
+
+	.scene-2 .media__actions {
+		width: 28%;
+		margin-top: 9vw;
+	}
+
+	.scene-3 {
+		margin-top: 5vh;
+	}
+
+	.scene-3 .scene__content_inner {
+		width: 100vw;
+	}
+
+	.scene-3 .progress__bar {
+		max-width: 100%;
+	}
+
+	.progress__bar_item span.percents {
+		font-size: 1.6rem;
+	}
+
+	.scene-3 .scene__content_inner_top {
+		width: 100%;
+		margin-bottom: 15vw;
+		padding: 0 1.5rem;
+	}
+
+	.scene-3 .text__title {
+		font-size: 2.45vw;
+	}
+
+	.scene-3 .island {
+		width: 100%;
+	}
+
+	.scene-3 .house {
+		width: 28%;
+		margin-bottom: -16%;
+	}
+
+	.scene-3 .mountains {
+		bottom: -5vw;
+	}
+
+	.scene-3 .dog {
+		width: 16%;
+		left: 54.8%;
+		bottom: 30%;
+	}
+
+	.scene-3 .bird {
+		width: 12%;
+		right: 12%;
+		top: -28%;
+	}
+
+	.scene-3 .bee.b-1 {
+		width: 11%;
+	}
+
+	.scene-3 .bee.b-2 {
+		width: 7%;
+	}
+
+	.scene-3 .bee.b-3 {
+		width: 4.5%;
+	}
+
+
+	.bubble__content {
+		font-size: 1.8vw;
+		padding: 5vw 2vw;
+	}
+
+	.scene-4 .scene__content {
+		width: 100vw;
+		position: relative;
+		left: 0;
+		top: 0;
+		-webkit-transform: none;
+		-ms-transform: none;
+		transform: none;
+		height: 50.5vh;
+	}
+
+	.bubble.alt .bubble__content_title {
+		font-size: 2vw;
+	}
+
+	.bubble.alt .bubble__content_text {
+		font-size: 1.3vw;
+	}
+
+	.scene-4 .scene__content .bubble.b-1 {
+		left: 36%;
+		top: 4%;
+	}
+
+	.scene-4 .scene__content .coin {
+		width: 3.1vw;
+	}
+
+	.scene-4 .scene__content .bubble.b-3 {
+		left: 35.5%;
+		top: 31%;
+	}
+
+	.scene-4 .scene__content .bubbles {
+		bottom: 10vw;
+		left: 38%;
+		height: 120%;
+		width: 30%;
+	}
+
+	.scene-4 .scene__content .dog {
+		top: 2%;
+	}
+
+	@keyframes up {
+		0% {
+			opacity: 0;
+		}
+		10%, 90% {
+			opacity: 1;
+		}
+		100% {
+			opacity: 0;
+			transform: translateY(-60vh);
+		}
+	}
+
+	.scene-4 .scene__content .fish.f-2 {
+		right: 0%;
+	}
+
+	.scene-4 .scene__content .fish.f-3 {
+		right: 2%;
+	}
+
+	.scene-5 .scene__content {
+		width: 100vw;
+		max-width: 118rem;
+		height: 55vh;
+		position: relative;
+		left: 0;
+		top: 0;
+		-webkit-transform: none;
+		-ms-transform: none;
+		transform: none;
+	}
+
+	.scene-5 .plant {
+		left: 87%;
+		top: 59%;
+	}
+
+	.scene-5 .scene__content .coin.contact {
+		width: 13%;
+		left: 18%;
+		top: 41%;
+	}
+
+	.scene-5 .scene__content .coin.buy {
+		width: 17%;
+		left: 12%;
+		top: 57%;
+	}
+
+	.scene-5 .scene__content .coin.chart {
+		width: 14%;
+		left: 62%;
+		top: 43%;
+	}
+
+	.scene-5 .scene__content .dog {
+		width: 13%;
+		left: 72%;
+		top: 72%;
+	}
+
+
+	.main__footer_content_side.left {
+		padding-right: 0;
+		margin-bottom: 8vw;
+	}
+
+	.main__footer .socials {
+		width: 36.5vw;
+	}
+
+	.main__footer_content .title {
+		font-size: 6vw;
+	}
+
+	.main__footer_content {
+		flex-direction: column;
+	}
+
+	.main__footer_content_side {
+		width: 100%;
+	}
+
+	.main__footer_content .title.mobile {
+		display: block;
+		text-align: center;
+	}
+
+	.main__footer form {
+		max-width: 80%;
+		margin: 0 auto;
+	}
+
+	.main__footer form input, 
+	.main__footer form textarea {
+		font-size: 2vw;
+		height: 6.3vw;
+		padding: 0 2vw;
+	}
+
+	.main__footer form textarea {
+		height: 16rem;
+		padding: 2vw 2vw;
+	}
+
+	.main__footer form [type="submit"] {
+		font-size: 2.4vw;
+		height: 6.3vw;
+		line-height: 4.4vw;
+		min-width: 20vw;
+		padding: 0 2vw;
+	}
+
+	.main__footer_content .title.desktop {
+		display: none;
+	}
+
+	.parallax__bg.bg-3 .sh-1 {
+		top: 90vw;
+	}
+
+	.parallax__bg.bg-3 .sh-2 {
+		top: 100vw;
+	}
+
+	.parallax__bg.bg-3 .cl-2 {
+		width: 50vw;
+		top: 50vh;
+		right: -18vw;
+	}
+
+	.parallax__bg.bg-3 .cl-3 {
+		top: 55vh;
+	}
+
+	.parallax__bg.bg-3 .cl-6 {
+		top: 118vh;
+	}
+
+
+	.parallax__bg.bg-3 .cl-9 {
+		top: 140vh;
+	}
+
+	.parallax__bg.bg-2 .cl-1 {
+		width: 30vw;
+		top: 40vh;
+		left: 2vw;
+	}
+
+	.parallax__bg.bg-2 .cl-2 {
+		width: 40vw;
+		top: 50vh;
+	}
+
+	.parallax__bg.bg-2 .cl-3 {
+		width: 30vw;
+		top: 35vh;
+		right: -2vw;
+	}
+
+	.parallax__bg.bg-2 .cl-4 {
+		width: 30vw;
+		top: 70vh;
+		right: -2vw;
+	}
+
+	.parallax__bg.bg-1 .clouds {
+		top: 98vh;
+	}
+
+	.scene.info {
+		margin-top: 0;
+		padding-top: 14vw;
+		min-height: 1px;
+	}
+
+	.scene.info .description__item {
+		font-size: 2.4vw;
+	}
+
+	.scene.info .description__item:nth-of-type(1) .description__item_image img {
+		max-width: 32vw;
+	}
+
+	.scene.info .description__item:nth-of-type(3) .description__item_image {
+		left: -5vw;
+	}
+
+	.scene-4 .scene__content .bubble.b-2 .bubble__content {
+		padding-top: 4vw;
+		padding-bottom: 3vw;
+	}
+
+	.scene.info .description__item:nth-of-type(2) .description__item_image img {
+		max-width: 30vw;
+	}
+
+	.scene.info .scene__content {
+		max-width: 90vw;
+	}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-height: 499px) and (max-width: 899px), (max-width: 767px) {
+
+	.scene-1 .text__area .title {
+		margin-bottom: 7vw;
+	}
+	
+	.scene-2 .media {
+		width: 70vw;
+		top: 3rem;
+	}
+
+	.parallax__bg.bg-1 .clouds {
+		top: 170vh;
+	}
+
+	.scene-3 .progress__bar {
+		display: none;
+	}
+
+	.scene-4 .scene__content {
+		height: 100vh;
+	}
+
+	.scene-4 .scene__content .dog {
+		top: 0%;
+	}
+
+	@keyframes up {
+		0% {
+			opacity: 0;
+		}
+		10%, 90% {
+			opacity: 1;
+		}
+		100% {
+			opacity: 0;
+			transform: translateY(-100vh);
+		}
+	}
+
+	.scene-5 .scene__content {
+		height: 100vh;
+	}
+
+	.scene-5 .corals {
+		top: 45%;
+		left: 10%;
+	}
+
+	.scene-5 .oyster {
+		left: 7%;
+		top: 77%;
+	}
+
+	.scene-5 .plant {
+		left: 78%;
+		top: 50%;
+	}
+
+	.scene-5 .star.left-top {
+		left: 16%;
+	}
+
+	.scene-5 .scene__content .coin.contact {
+		left: 24%;
+		top: 38%;
+		width: 12%;
+	}
+
+	.scene-5 .scene__content .coin.buy {
+		width: 15%;
+		left: 20%;
+		top: 56%;
+	}
+
+	.scene-5 .scene__content .coin.chart {
+		width: 13%;
+		left: 58%;
+		top: 40%;
+	}
+
+	.scene-5 .scene__content .dog {
+		width: 11%;
+		left: 67%;
+		top: 69%;
+	}
+
+	.parallax__bg.bg-3 .sh-1 {
+		left: 0vw;
+	}
+
+	.parallax__bg.bg-3 .sh-2 {
+		right: 2vw;
+	}
+
+	.main__footer .copy span {
+		margin-bottom: 4.8vw;
+	}
+
+	.scene-4 .scene__content .bubble.b-3 {
+		left: 35.5%;
+		top: 28%;
+	}
+
+	.scene-3 .bubble.b-4 .bubble__content {
+		padding-left: 2.4vw;
+		padding-right: 2.4vw;
+	}
+
+
+	.scene.scene-2 {
+		padding-top: 5vw;
+	}
+
+	.scene.info .description__item {
+		margin-bottom: 8vw;
+	}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 599px) {
+
+	.main__menu {
+		font-size: 3.3vw;
+	}
+
+	.main__menu li {
+		margin: 0 0.8rem;
+	}
+
+	.scene-1 .scene__content_inner {
+		max-width: 100vw;
+	}
+
+	.scene-1 .socials__wrapper {
+		margin-bottom: 16vw;
+	}
+
+	.scene-1 .socials {
+		width: 50vw;
+	}
+
+	.scene-1 .logo__area {
+		width: 90vw;
+	}
+
+	.scene-1 .text__area .title {
+		font-size: 4.8vw;
+		margin-bottom: 10vw;
+	}
+
+	.scene-1 .text__area .subtitle {
+		font-size: 4.2vw;
+		line-height: 1.5;
+	}
+
+	.scene-1 .coins__list {
+		width: 26%;
+		top: -6%;
+	}
+
+	.scene-1 .coins__list li {
+		min-width: 8%;
+		margin: 0 7%;
+	}
+
+	.scene-2 .media {
+		width: 90vw;
+		top: 7rem;
+	}
+
+	.scene-2 .scene__content {
+		padding-bottom: 10rem;
+	}
+
+	.scene-2 .media__actions {
+		width: 40%;
+		margin-top: 12vw;
+	}
+
+	.scene-2 .media .markets__list li {
+		margin-bottom: 2.5vw;
+	}
+
+	.scene-3 .progress__bar {
+		flex-direction: column;
+		border-radius: 0.6rem;
+		margin-bottom: 6vw;
+		overflow: hidden;
+	}
+
+	.progress__bar_item {
+		border-radius: 0;
+		padding: 0.4rem 1rem;
+	}
+
+	.progress__bar_item:nth-child(1) {
+		width: 100%;
+	}
+
+	.progress__bar_item:nth-child(2) {
+		width: 100%;
+	}
+
+	.progress__bar_item:nth-child(3) {
+		width: 100%;
+	}
+
+	.progress__bar_item:nth-child(4) {
+		width: 100%;
+	}
+
+	.progress__bar_item:nth-child(5) {
+		width: 100%;
+		padding-right: 0;
+	}
+
+	.scene-3 .text__title {
+		font-size: 4.45vw;
+		line-height: 1.5;
+	}
+
+	.bubble__content {
+		font-size: 3vw;
+		padding: 10vw 2vw 8vw;
+		text-shadow: 0.1rem 0.1rem 0.1rem rgba(0, 0, 0, 0.6);
+	}
+
+	.scene-3 .island {
+		width: 120%;
+		margin-bottom: -10vw;
+	}
+
+	.scene-3 .mountains {
+		bottom: 0vw;
+	}
+
+	.scene-3 .house {
+		width: 33%;
+		margin-bottom: -19%;
+	}
+
+	.scene-3 .dog {
+		width: 18%;
+		left: 54.8%;
+		bottom: 21%;
+	}
+
+	.scene-3 .bubble.b-1 {
+		left: 3%;
+		top: 19%;
+	}
+
+	.scene-3 .bubble.b-2 {
+		left: 24%;
+		top: -13%;
+	}
+
+	.scene-3 .bubble.b-3 {
+		left: 54%;
+		top: -22%;
+	}
+
+	.scene-3 .bubble.b-4 {
+		left: 67%;
+		top: 11%;
+	}
+
+	.scene-3 .bubble.b-4 .bubble__content {
+		padding-left: 3.4vw;
+		padding-right: 3.4vw;
+		padding-top: 8vw;
+		padding-bottom: 9.5vw;
+	}
+
+	.scene-3 .bird {
+		width: 14%;
+		right: 2%;
+		top: -10%;
+	}
+
+	.scene-3 .bee.b-1 {
+		width: 13%;
+		left: 4%;
+		top: 0;
+	}
+
+	.scene-3 .bee.b-2 {
+		width: 9%;
+		left: 15%;
+		top: -16%;
+	}
+
+	.scene-3 .bee.b-3 {
+		width: 6.5%;
+		top: -11%;
+	}
+
+	.scene-3 .scene__content_inner_bottom {
+		padding-top: 15vw;
+	}
+
+	.bubble.alt .bubble__content_title {
+		font-size: 4.2vw;
+	}
+
+	.bubble.alt.v-1 .bubble__content {
+		text-shadow: -0.1rem 0.1rem 0.1rem #0071b6;
+	}
+
+	.bubble.alt .bubble__content_text {
+		font-size: 3vw;
+		text-shadow: 0.1rem 0.1rem 0.1rem rgba(0, 0, 0, 0.4);
+	}
+
+	.bubble.alt .bubble__content {
+		padding: 10vw 4vw;
+	}
+
+	.scene-4 .scene__content .bubble.b-1 .bubble__content {
+		padding-left: 4vw;
+		padding-right: 4vw;
+	}
+
+	.scene-4 .overlay {
+		background-position: left -85vw center;
+	}
+
+	.scene-4 .scene__content .bubble.b-1 {
+		left: 7%;
+		top: 4%;
+	}
+
+	.scene-4 .scene__content .bubble.b-2 {
+		left: 50%;
+		top: 16%;
+	}
+
+	.scene-4 .scene__content .bubble.b-3 {
+		left: 17.5%;
+		top: 26%;
+	}
+
+	.scene-4 .scene__content .bubble.b-3 .bubble__content {
+		padding-left: 3vw;
+		padding-right: 3vw;
+	}
+
+	.scene-4 .scene__content .bubble.b-4 {
+		left: 44%;
+		top: 35%;
+	}
+
+	.scene-4 .scene__content .bubble.b-4 .bubble__content {
+		padding: 8vw 4vw;
+	}
+
+	.scene-4 .scene__content .coin {
+		width: 5.1vw;
+	}
+
+	.scene-4 .scene__content .coin.c-1 {
+		left: 7%;
+		top: 50%;
+	}
+
+	.scene-4 .scene__content .coin.c-2 {
+		left: 38%;
+		top: 40%;
+	}
+
+	.scene-4 .scene__content .coin.c-3 {
+		left: 37%;
+		top: 13%;
+	}
+
+	.scene-4 .scene__content .coin.c-4 {
+		left: 87%;
+		top: 45%;
+	}
+
+	.scene-4 .scene__content .coin.c-5 {
+		left: 78%;
+		top: 56%;
+	}
+
+	.scene-4 .scene__content .coin.c-6 {
+		left: 60%;
+		top: 72%;
+	}
+
+	.scene-4 .scene__content .bubbles {
+		bottom: 28vw;
+		left: 43%;
+		height: 100%;
+		width: 50%;
+	}
+
+	.scene-4 .scene__content .dog {
+		width: 20%;
+		left: 54%;
+		top: 7%;
+	}
+
+	.scene-4 .scene__content .fish.f-1 {
+		width: 21%;
+		top: 23%;
+		left: 0.5%;
+	}
+
+	.scene-4 .scene__content .fish.f-2 {
+		right: 0%;
+		width: 20%;
+		top: 10%;
+	}
+
+	.scene-4 .scene__content .fish.f-3 {
+		right: 2%;
+		width: 24%;
+		top: 32%;
+	}
+
+	.scene-5 .overlay {
+		background-position: left -70vw center;
+	}
+
+	.scene-5 .star.left-top {
+		left: 5%;
+		width: 20vw;
+	}
+
+	.scene-5 .star.center-top {
+		top: -3%;
+		left: 78%;
+		width: 18vw;
+	}
+
+	.scene-5 .scene__content .coin.contact {
+		left: 30%;
+		top: 46%;
+		width: 20%;
+	}
+
+	.scene-5 .scene__content .coin span {
+		width: 70%;
+	}
+
+	.scene-5 .scene__content .coin.contact span:nth-of-type(1) {
+		left: -10vw;
+		top: 130%;
+	}
+
+	.scene-5 .scene__content .coin.contact span:nth-of-type(2) {
+		left: 60%;
+		top: 90%;
+	}
+
+	.scene-5 .scene__content .coin.buy {
+		width: 30%;
+		left: 17%;
+		top: 60%;
+	}
+
+	.scene-5 .scene__content .coin.buy span {
+		left: 50%;
+		top: 90%;
+	}
+
+	.scene-5 .scene__content .coin.chart {
+		width: 25%;
+		left: 55%;
+		top: 55%;
+	}
+
+	.scene-5 .scene__content .coin.chart span {
+		left: 20%;
+		top: 90%;
+	}
+
+	.scene-5 .scene__content .dog {
+		width: 26%;
+		left: 67%;
+		top: 72%;
+	}
+
+	.main__footer_content .title {
+		font-size: 12vw;
+		margin-bottom: 8vw;
+	}
+
+	.main__footer form {
+		max-width: 100%;
+	}
+
+	.main__footer form .field {
+		width: 100%;
+	}
+
+	.main__footer form .field:nth-of-type(2n+1) {
+		margin-right: 0;
+	}
+
+	.main__footer form .field:nth-of-type(2n) {
+		margin-left: 0;
+	}
+
+	.main__footer form input, .main__footer form textarea {
+		font-size: 4vw;
+		height: 13vw;
+		padding: 0 4vw;
+	}
+
+	.main__footer form textarea {
+		height: 16rem;
+		padding: 4vw 4vw;
+	}
+
+	.main__footer form [type="submit"] {
+		font-size: 4.4vw;
+		height: 13.3vw;
+		line-height: 14.4vw;
+		min-width: 100%;
+		padding: 0 4vw;
+	}
+
+	.main__footer .socials {
+		width: 60vw;
+	}
+
+	.main__footer .socials li {
+		margin: 0 0.7rem;
+		width: calc(25% - 0.7rem);
+	}
+
+	.main__footer_content {
+		padding-top: 20vw;
+		padding-bottom: 5vw;
+	}
+
+	.main__footer .copy {
+		width: 100vw;
+		font-size: 4.4vw;
+		padding: 10vw 1.5rem;
+	}
+
+	.main__footer .copy span:nth-child(2) {
+		font-size: 3.4vw;
+	}
+
+	.main__footer_content_side.left {
+		margin-bottom: 16vw;
+	}
+
+	.parallax__bg.bg-3 .sh-1 {
+		top: 140vw;
+		width: 25vw;
+	}
+
+	.parallax__bg.bg-3 .sh-2 {
+		width: 16vw;
+		top: 152vw;
+	}
+
+	.parallax__bg.bg-1 .clouds {
+		top: 100vh;
+	}
+
+	.parallax__bg.bg-3 .cl-4 {
+		width: 60vw;
+		top: 13vh;
+		right: -30vw;
+	}
+
+	.parallax__bg.bg-3 .cl-6 {
+		top: 110vh;
+		width: 60vw;
+	}
+
+	.parallax__bg.bg-3 .cl-9 {
+		top: 152vh;
+		width: 60vw;
+		left: -30vw;
+	}
+
+	.parallax__bg.bg-3 .cl-3 {
+		top: 55vh;
+		width: 60vw;
+		left: -20vw;
+	}
+
+	.parallax__bg.bg-3 .cl-1 {
+		width: 70vw;
+		top: 7vh;
+		left: -27vw;
+	}
+
+	.parallax__bg.bg-3 .cl-2 {
+		width: 70vw;
+		top: 50vh;
+		right: -30vw;
+	}
+
+	.parallax__bg.bg-3 .cl-5 {
+		width: 60vw;
+		top: 95vh;
+	}
+
+	.parallax__bg.bg-3 .cl-11 {
+		width: 50vw;
+		top: 120vh;
+		right: -20vw;
+	}
+
+	.scene.info .description__item {
+		font-size: 4.2vw;
+		flex-direction: column;
+		margin-bottom: 3rem;
+	}
+
+	.scene.info .description__item:last-of-type {
+		margin-bottom: 0;
+	}
+
+	.scene.info .description__item_image {
+		display: block;
+		text-align: center;
+		width: 100%;
+		margin-bottom: 3rem;
+	}
+
+	.scene.info .description__item_image img {
+		display: inline-block;
+	}
+
+	.scene.info .description__item:nth-of-type(2n+1) .description__item_image {
+		-webkit-box-ordinal-group: 1;
+		-webkit-order: 0;
+		-ms-flex-order: 0;
+		order: 0;
+		justify-content: center;
+	}
+
+	.scene.info .description__item_text {
+		width: 100%;
+	}
+
+	.scene.info .description__item_text p {
+		max-width: 100%;
+	}
+
+	.scene.info .description__item:nth-of-type(2) .description__item_text {
+		left: 0;
+	}
+
+	.scene.info .description__item:nth-of-type(3) .description__item_text p {
+		max-width: 100%;
+	}
+
+	.scene-4 .scene__content .bubble.b-2 .bubble__content {
+		padding-top: 8vw;
+		padding-bottom: 7vw;
+	}
+
+	.scene-4 .scene__content .bubble.b-5 {
+		left: 24%;
+		top: 50%;
+	}
+
+	.main__footer_top_title {
+		font-size: 3.8vw;
+		margin-bottom: 15vw;
+	}
+
+	.partners__list li:nth-child(2) img {
+		max-width: 15vw;
+	}
+
+	.scene.info .description__item:nth-of-type(1) .description__item_image img {
+		max-width: 44vw;
+	}
+
+	.scene.info .description__item:nth-of-type(2) .description__item_image img {
+		max-width: 44vw;
+	}
+
+	.scene.info .description__item:nth-of-type(3) .description__item_image img {
+		max-width: 60vw;
+	}
+	
+}

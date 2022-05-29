@@ -1,0 +1,57 @@
+/*@font-face {
+	font-family: '';
+	src: url('../fonts/.eot');
+	src: url('../fonts/.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/.woff') format('woff'),
+		 url('../fonts/.ttf') format('truetype'),
+		 url('../fonts/.svg#') format('svg');
+	font-style: normal;
+	font-weight: normal;
+}*/
+
+
+@font-face {
+	font-family: 'comic';
+	src: url('../fonts/ComicKings-Jzgn.html');
+	src: url('../fonts/ComicKings-Jzgnd41d.html?#iefix') format('embedded-opentype'),
+		 url('../fonts/ComicKings-Jzgn-2.html') format('woff'),
+		 url('../fonts/ComicKings-Jzgn.ttf') format('truetype'),
+		 url('../fonts/ComicKings-Jzgn-3.html#ComicKings-Jzgn') format('svg');
+	font-style: normal;
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: 'helvetica';
+	src: url('../fonts/HelveticaMedium.html');
+	src: url('../fonts/HelveticaMediumd41d.html?#iefix') format('embedded-opentype'),
+		 url('../fonts/HelveticaMedium-2.html') format('woff'),
+		 url('../fonts/HelveticaMedium.ttf') format('truetype'),
+		 url('../fonts/HelveticaMedium-3.html#HelveticaMedium') format('svg');
+	font-style: normal;
+	font-weight: 500;
+}
+
+
+@font-face {
+	font-family: 'asap';
+	src: url('../fonts/AsapCondensed-Regular.html');
+	src: url('../fonts/AsapCondensed-Regulard41d.html?#iefix') format('embedded-opentype'),
+		 url('../fonts/AsapCondensed-Regular-2.html') format('woff'),
+		 url('../fonts/AsapCondensed-Regular.ttf') format('truetype'),
+		 url('../fonts/AsapCondensed-Regular-3.html#AsapCondensed-Regular') format('svg');
+	font-style: normal;
+	font-weight: 400;
+}
+
+
+@font-face {
+	font-family: 'asap';
+	src: url('../fonts/AsapCondensed-Bold.html');
+	src: url('../fonts/AsapCondensed-Boldd41d.html?#iefix') format('embedded-opentype'),
+		 url('../fonts/AsapCondensed-Bold-2.html') format('woff'),
+		 url('../fonts/AsapCondensed-Bold.ttf') format('truetype'),
+		 url('../fonts/AsapCondensed-Bold-3.html#AsapCondensed-Bold') format('svg');
+	font-style: normal;
+	font-weight: 700;
+}
